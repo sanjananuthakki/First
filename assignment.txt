@@ -1,1 +1,1 @@
-"This is assignment on GIT" 
+"This is the first assignment on GIT". way to practice and get hands on the different concepts.
